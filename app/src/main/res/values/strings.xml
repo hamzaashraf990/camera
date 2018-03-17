@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="a">Select Image</string>
+    <string name="b">IMAGE</string>
+    <string name="c">Show</string>
+    <string name="d">Your Image:</string>
+</resources>
